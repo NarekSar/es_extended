@@ -1,4 +1,4 @@
-function CreateExtendedPlayer(playerId, identifier, group, accounts, inventory, weight, job, job2 loadout, name, coords)
+function CreateExtendedPlayer(playerId, identifier, group, accounts, inventory, weight, job, job2, loadout, name, coords)
 	local self = {}
 
 	self.accounts = accounts
